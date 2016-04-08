@@ -1,0 +1,9 @@
+Package: com.leftyfl1p.sendpercentage
+Name: SendPercentage
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Show sending percentage progress in messages
+Maintainer: leftyfl1p
+Author: leftyfl1p
+Section: Tweaks
